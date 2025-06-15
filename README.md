@@ -21,6 +21,9 @@
 - 📈 **Real-time Analytics**: Live performance monitoring and forecasting
 
 ---
+## Visual View of dashboard 
+![Uploading WhatsApp Image 2025-06-15 at 12.59.35_81f281ed.jpg…]()
+
 
 ## 🎯 Quick Demo
 
