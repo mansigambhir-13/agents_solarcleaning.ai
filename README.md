@@ -370,4 +370,3 @@ This project is developed for the Qualcomm Edge AI Developer Hackathon 2025.
    git push origin main
    ```
 
-This README will make your repository look **extremely professional** and **hackathon-ready**! 🏆
