@@ -1,9 +1,5 @@
-# 📝 COMPLETE README.MD - COPY & PASTE
 
-Copy and paste this entire README content:
-
-```markdown
-# 🌞 SolarSage - AI Agents for Solar Panel Cleaning Optimization
+## 🌞 SolarSage - AI Agents for Solar Panel Cleaning Optimization
 
 ## 🏆 Qualcomm Edge AI Developer Hackathon 2025
 
