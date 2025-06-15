@@ -209,7 +209,14 @@ SolarSage employs 4 specialized AI agents that collaborate to optimize solar pan
   ]
 }
 ```
+# 🚀 COMPLETE SOLARSAGE DEMO COMMANDS
 
+## 🎯 QUICK START (Most Important)
+```bash
+cd SolarSage-CrewAI
+python solarcleaningmain.py --demo
+python solarcleaningmain.py --status
+python solarcleaningmain.py --crewai-demo
 ---
 
 ## 🏆 Hackathon Highlights
