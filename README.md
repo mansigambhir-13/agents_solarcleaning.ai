@@ -22,7 +22,7 @@
 
 ---
 ## Visual View of dashboard 
-![Uploading WhatsApp Image 2025-06-15 at 12.59.35_81f281ed.jpg…]()
+![WhatsApp Image 2025-06-15 at 12 59 35_81f281ed](https://github.com/user-attachments/assets/24571f10-4b5b-4b6e-9b00-dde90346bfef)
 
 
 ## 🎯 Quick Demo
